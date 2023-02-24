@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+@misc{https://doi.org/10.48550/arxiv.2208.14302,
+  doi = {10.48550/ARXIV.2208.14302},
+  
+  url = {https://arxiv.org/abs/2208.14302},
+  
+  author = {Bayram, Samet and Barner, Kenneth},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {A Black-Box Attack on Optical Character Recognition Systems},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+}
